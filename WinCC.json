@@ -1,7 +1,7 @@
 [
     {
             "id": 1,
-            "barcode": "0985409584609",
+            "barcode": "88888",
             "procPriority": 1000,
             "penaltyRound": 1,
             "sendTime": "11:23:12",
