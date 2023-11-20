@@ -21,7 +21,7 @@
             "receiveTime": 1696862323.000000000,
             "orderId": 1,
             "palletType": "FIN",
-            "sourceDecisionPoint": "Zagruzka",
+            "sourceDecisionPoint": "Загрузка",
             "targetDecisionPoint": "Tochka vygruzki 1",
             "event": "Zadanie sozdano"
         }
