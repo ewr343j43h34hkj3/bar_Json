@@ -1,56 +1,28 @@
 [
     {
-            "id": 1,
-            "barcode": "88888",
-            "procPriority": 1000,
-            "penaltyRound": 1,
-            "sendTime": "11:23:12",
-            "receiveTime": 1696862323.000000000,
-            "orderId": 1,
-            "palletType": "FIN",
-            "sourceDecisionPoint": "Zagruzka",
-            "targetDecisionPoint": "Tochka vygruzki 1",
-            "event": "Zadanie sozdano"
-        },
-            {
-            "id": 2,
-            "barcode": "234349832948",
-            "procPriority": 1000,
-            "penaltyRound": 1,
-            "sendTime": "11:23:12",
-            "receiveTime": 1696862323.000000000,
-            "orderId": 1,
-            "palletType": "FIN",
-            "sourceDecisionPoint": "Загрузка",
-            "targetDecisionPoint": "Tochka vygruzki 1",
-            "event": "Zadanie sozdano"
-        }
-        ,
-            {
-            "id": 3,
-            "barcode": "234349832948",
-            "procPriority": 1000,
-            "penaltyRound": 1,
-            "sendTime": "11:23:12",
-            "receiveTime": 1696862323.000000000,
-            "orderId": 1,
-            "palletType": "FIN",
-            "sourceDecisionPoint": "Zagruzka",
-            "targetDecisionPoint": "Tochka vygruzki 1",
-            "event": "Zadanie sozdano"
-        }
-        ,
-            {
-            "id": 4,
-            "barcode": "234349832948",
-            "procPriority": 1000,
-            "penaltyRound": 1,
-            "sendTime": "11:23:12",
-            "receiveTime": 1696862323.000000000,
-            "orderId": 1,
-            "palletType": "FIN",
-            "sourceDecisionPoint": "Загрузка",
-            "targetDecisionPoint": "Точка выгрузки 1",
-            "event": "Zadanie sozdano"
-        }
-    ]
+        "id": 1,
+        "barcode": "1897443",
+        "procPriority": 100,
+        "penaltyRound": 1,
+        "sendTime": 1696862321.000000000,
+        "receiveTime": 1696862323.000000000,
+        "orderId": 1,
+        "palletType": "FIN",
+        "sourceDecisionPoint": "Загрузка",
+        "targetDecisionPoint": "Точка выгрузки 1",
+        "event": "Задание создано"
+    },
+    {
+        "id": 2,
+        "barcode": "1897443",
+        "procPriority": 100,
+        "penaltyRound": 1,
+        "sendTime": 1696862321.000000000,
+        "receiveTime": 1696862323.000000000,
+        "orderId": 1,
+        "palletType": "FIN",
+        "sourceDecisionPoint": "Загрузка",
+        "targetDecisionPoint": "Точка выгрузки 1",
+        "event": "Задание выполнено"
+    }
+]
