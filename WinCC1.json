@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "barcode": "1897443",
+        "barcode": "123456789",
         "procPriority": 100,
         "penaltyRound": 1,
         "sendTime": 1696862321.000000000,
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "barcode": "1897443",
+        "barcode": "987654321",
         "procPriority": 100,
         "penaltyRound": 1,
         "sendTime": 1696862321.000000000,
