@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "palletType": 2,
+    "barcode": "ABC123",
+    "source": "Warehouse A",
+    "destination": "Warehouse B",
+    "command": 101,
+    "priority": 1,
+    "isRun": true,
+    "commands": [
+      {
+        "id": 1,
+        "missionCode": 10,
+        "missId": 1001,
+        "hm": 5,
+        "luId": 200,
+        "luType": 3,
+        "asi": 7,
+        "si": 4,
+        "pa": 1,
+        "taskId": 1
+      },
+      {
+        "id": 2,
+        "missionCode": 11,
+        "missId": 1002,
+        "hm": 6,
+        "luId": 201,
+        "luType": 4,
+        "asi": 8,
+        "si": 5,
+        "pa": 2,
+        "taskId": 1
+      },
+      {
+        "id": 3,
+        "missionCode": 12,
+        "missId": 1003,
+        "hm": 7,
+        "luId": 202,
+        "luType": 5,
+        "asi": 9,
+        "si": 6,
+        "pa": 3,
+        "taskId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "palletType": 3,
+    "barcode": "XYZ456",
+    "source": "Warehouse C",
+    "destination": "Warehouse D",
+    "command": 102,
+    "priority": 2,
+    "isRun": false,
+    "commands": [
+      {
+        "id": 4,
+        "missionCode": 13,
+        "missId": 1004,
+        "hm": 8,
+        "luId": 203,
+        "luType": 6,
+        "asi": 10,
+        "si": 7,
+        "pa": 4,
+        "taskId": 2
+      },
+      {
+        "id": 5,
+        "missionCode": 14,
+        "missId": 1005,
+        "hm": 9,
+        "luId": 204,
+        "luType": 7,
+        "asi": 11,
+        "si": 8,
+        "pa": 5,
+        "taskId": 2
+      },
+      {
+        "id": 6,
+        "missionCode": 15,
+        "missId": 1006,
+        "hm": 10,
+        "luId": 205,
+        "luType": 8,
+        "asi": 12,
+        "si": 9,
+        "pa": 6,
+        "taskId": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "palletType": 4,
+    "barcode": "LMN789",
+    "source": "Warehouse E",
+    "destination": "Warehouse F",
+    "command": 103,
+    "priority": 3,
+    "isRun": true,
+    "commands": [
+      {
+        "id": 7,
+        "missionCode": 16,
+        "missId": 1007,
+        "hm": 11,
+        "luId": 206,
+        "luType": 9,
+        "asi": 13,
+        "si": 10,
+        "pa": 7,
+        "taskId": 3
+      },
+      {
+        "id": 8,
+        "missionCode": 17,
+        "missId": 1008,
+        "hm": 12,
+        "luId": 207,
+        "luType": 10,
+        "asi": 14,
+        "si": 11,
+        "pa": 8,
+        "taskId": 3
+      },
+      {
+        "id": 9,
+        "missionCode": 18,
+        "missId": 1009,
+        "hm": 13,
+        "luId": 208,
+        "luType": 11,
+        "asi": 15,
+        "si": 12,
+        "pa": 9,
+        "taskId": 3
+      }
+    ]
+  }
+]
