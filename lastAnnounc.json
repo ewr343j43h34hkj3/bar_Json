@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "barcode": "ABC123",
+  "procPriority": 10,
+  "penaltyRound": 1,
+  "sendTime": "2023-01-01T08:00:00+03:00",
+  "receiveTime": "2023-01-01T09:00:00+03:00",
+  "orderId": 1001,
+  "palletType": "FIN",
+  "sourceDecisionPointName": "Source1",
+  "sourceDecisionPointType": "Type1",
+  "sourceDecisionPointCoord": "Coord1",
+  "targetDecisionPointName": "Target1",
+  "targetDecisionPointType": "Type1",
+  "targetDecisionPointCoord": "Coord1",
+  "event": "ANNOUNCE_CREATED"
+}
