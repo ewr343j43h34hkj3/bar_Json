@@ -1,0 +1,19 @@
+[
+  {
+    "id": 3,
+    "barcode": "GHI789",
+    "procPriority": 30,
+    "penaltyRound": 3,
+    "sendTime": "2023-01-03T08:00:00+03:00",
+    "receiveTime": "2023-01-03T09:00:00+03:00",
+    "orderId": 1003,
+    "palletType": "FIN",
+    "sourceDecisionPointName": "Source3",
+    "sourceDecisionPointType": "Type3",
+    "sourceDecisionPointCoord": "Coord3",
+    "targetDecisionPointName": "Target3",
+    "targetDecisionPointType": "Type3",
+    "targetDecisionPointCoord": "Coord3",
+    "event": "ANNOUNCE_CLOSED"
+  }
+]
