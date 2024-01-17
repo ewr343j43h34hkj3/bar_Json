@@ -26,6 +26,33 @@
 "sourceDecisionPoint": "Загрузка",
 "targetDecisionPoint": "Точка выгрузки 1",
 "event": "Задание выполнено"
+},
+{
+"id": 3,
+"barcode": "9289374827",
+"procPriority": 100,
+"penaltyRound": 1,
+"sendTime": 1696862321,
+"receiveTime": 1696862323,
+"orderId": 1,
+"palletType": "FIN",
+"sourceDecisionPoint": "Загрузка",
+"targetDecisionPoint": "Точка выгрузки 1",
+"event": "Задание выполнено"
+}
+,
+{
+"id": 4,
+"barcode": "2323333",
+"procPriority": 100,
+"penaltyRound": 1,
+"sendTime": 1696862321,
+"receiveTime": 1696862323,
+"orderId": 1,
+"palletType": "FIN",
+"sourceDecisionPoint": "Загрузка",
+"targetDecisionPoint": "Точка выгрузки 1",
+"event": "Задание выполнено"
 }
 ]
 }
