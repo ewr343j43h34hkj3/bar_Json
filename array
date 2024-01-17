@@ -1,0 +1,31 @@
+{
+"Array":
+[
+{
+"id": 1,
+"barcode": "123456789",
+"procPriority": 100,
+"penaltyRound": 1,
+"sendTime": 1696862321,
+"receiveTime": 1696862323,
+"orderId": 1,
+"palletType": "FIN",
+"sourceDecisionPoint": "Загрузка",
+"targetDecisionPoint": "Точка выгрузки 1",
+"event": "Задание создано"
+},
+{
+"id": 2,
+"barcode": "987654321",
+"procPriority": 100,
+"penaltyRound": 1,
+"sendTime": 1696862321,
+"receiveTime": 1696862323,
+"orderId": 1,
+"palletType": "FIN",
+"sourceDecisionPoint": "Загрузка",
+"targetDecisionPoint": "Точка выгрузки 1",
+"event": "Задание выполнено"
+}
+]
+}
