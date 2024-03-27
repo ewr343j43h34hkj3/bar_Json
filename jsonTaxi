@@ -1,0 +1,16 @@
+[
+   {
+      "receiver_tax_id":"1002",
+      "total":"6949,15",
+      "receiver_company_name":"Das Company",
+      "receiver_email":"info@another.com",
+      "status":0
+   },
+   {
+      "receiver_tax_id":"1001",
+      "total":"39222,49",
+      "receiver_company_name":"SAD company",
+      "receiver_email":"info@mail.com",
+      "status":1
+   }
+]
