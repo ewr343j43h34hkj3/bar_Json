@@ -1,0 +1,520 @@
+[
+{
+"nameOfChute": "K04",
+"type": "CHUTE",
+"tasks": 18,
+"delivered": 4,
+"waiting": 14
+},
+{
+"nameOfChute": "K42",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K01",
+"type": "CHUTE",
+"tasks": 5,
+"delivered": 0,
+"waiting": 5
+},
+{
+"nameOfChute": "K03",
+"type": "CHUTE",
+"tasks": 3,
+"delivered": 3,
+"waiting": 0
+},
+{
+"nameOfChute": "K12",
+"type": "CHUTE",
+"tasks": 3,
+"delivered": 2,
+"waiting": 1
+},
+{
+"nameOfChute": "K06",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 1,
+"waiting": 0
+},
+{
+"nameOfChute": "K02",
+"type": "CHUTE",
+"tasks": 2,
+"delivered": 1,
+"waiting": 1
+},
+{
+"nameOfChute": "K40",
+"type": "CHUTE",
+"tasks": 3,
+"delivered": 0,
+"waiting": 3
+},
+{
+"nameOfChute": "K10",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K11",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K13",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K09",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K14",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 1,
+"waiting": 0
+},
+{
+"nameOfChute": "K05",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K08",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K07",
+"type": "CHUTE",
+"tasks": 1,
+"delivered": 0,
+"waiting": 1
+},
+{
+"nameOfChute": "K15",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K16",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K17",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K18",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K19",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K20",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K21",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K22",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K23",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K24",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K25",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K26",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K27",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K28",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K29",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K30",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K31",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K32",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K33",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K34",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K35",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "NOTOK1",
+"type": "NOT_OK",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K36",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K37",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K38",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K39",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K41",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K43",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K44",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K45",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K46",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K47",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K48",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K49",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K50",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K51",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K52",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K53",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K54",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K55",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K56",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K57",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K58",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K59",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K60",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K61",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K62",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K63",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K64",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K65",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K66",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K67",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K68",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K69",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "K70",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "NOTOK2",
+"type": "NOT_OK",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "ECOM1",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+},
+{
+"nameOfChute": "ECOM2",
+"type": "CHUTE",
+"tasks": 0,
+"delivered": 0,
+"waiting": 0
+}
+]
