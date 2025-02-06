@@ -1,0 +1,58 @@
+[
+  {
+    "x": 0,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": 1010
+  },
+  {
+    "x": 100,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": 1020
+  },
+  {
+    "x": 200,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": 1030
+  },
+  {
+    "x": 300,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": ""
+  },
+  {
+    "x": 400,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": ""
+  },
+  {
+    "x": 500,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": ""
+  },
+  {
+    "x": 600,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": ""
+  },
+  {
+    "x": 700,
+    "y": 50,
+    "type": 1,
+    "type_test": 1,
+    "name": ""
+  }
+]
